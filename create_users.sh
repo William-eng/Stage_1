@@ -2,7 +2,7 @@
 
 # Constants
 LOG_FILE="/var/log/user_management.log"
-PASSWORD_FILE="/var/secure/user_passwords.txt"
+PASSWORD_FILE="/var/secure/user_passwords.csv"
 USER_LIST_FILE="$1"  # The file containing user;groups data
 
 # Functions
